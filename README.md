@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [GIGET](https://giget.da-shopping.com/)
+- 🔭 I’m currently working on [GIGET](https://giget.site/)
 
 - 🌱 I’m currently learning **Frameworks,Laravel**
 
-- 👯 I’m looking to collaborate on [GIGET](https://giget.da-shopping.com/)
+- 👯 I’m looking to collaborate on [GIGET](https://giget.site/)
 
-- 🤝 I’m looking for help with [GIGET](https://giget.da-shopping.com/)
+- 🤝 I’m looking for help with [GIGET](https://giget.site/)
 
-- 👨‍💻 All of my projects are available at [https://giget.da-shopping.com/](https://giget.da-shopping.com/)
+- 👨‍💻 All of my projects are available at [(https://giget.site/)](https://giget.site/)
 
 - 💬 Ask me about **PHP,Laravel**
 
